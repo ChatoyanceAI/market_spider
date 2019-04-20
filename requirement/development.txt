@@ -1,0 +1,13 @@
+autopep8
+coverage
+flake8
+flake8-mypy
+pretend
+pre-commit
+pytest
+pytest-cov
+pytest-testmon
+pytest-watch
+pytest-xdist
+requests-mock
+tox
